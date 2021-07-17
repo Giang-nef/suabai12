@@ -1,0 +1,181 @@
+.box {
+  width: 1562px;
+  height: 1128px;
+  background-color: #141414;
+  color: #E5E5E5;
+  margin: auto;
+}
+
+.box-1 {
+  width: 272px;
+  height: 100%;
+  border-right: #EBEBF5 solid 1px;
+  display: inline-block;
+}
+
+.box-1-head {
+  padding: 63.33px 39px 60px 40.33px;
+}
+
+.box-1-main > p {
+  padding: 10px 85px 10px 40px;
+}
+
+.box-1-main > p > span {
+  margin-left: 15px;
+}
+  
+.box-1-main > p:hover {
+  background-color: #2F2F2F;
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+
+.box-1-footer {
+  position: relative;
+  top: 400px;
+}
+
+.box-1-footer > p > span {
+  margin-left: 15px;
+}
+
+.box-1-footer > p {
+  padding: 10px 85px 10px 40px;
+}
+
+.box-1-footer > p:hover {
+  background-color: #2F2F2F;
+  color: #FFFFFF;
+  border-radius: 12px;
+}
+
+.box-2 {
+  position: relative;
+  width: 1284px;
+  display: inline-block;
+}
+
+.head {
+  position: relative;
+  left: 24px;
+  top: 20px;
+  width: 100%;
+  padding-bottom: 35px;
+}
+
+.head-left {
+  width: 49%;
+}
+
+.head-left > span {
+  margin-right: 39px;
+  padding: 8px;
+}
+
+.head-left > span:hover {
+  background-color: #0061FD;
+  border-radius: 143px;
+}
+
+.head-right {
+  position:absolute;
+  right: 90px;
+  bottom: 22px;
+}
+
+.head-right > img {
+  position: relative;
+  right: 45px;
+  top: 5px;
+}
+
+.head-right > span > input {
+  background-color: #2F2F2F;
+  padding: 11.5px 200px 11.5px 11.5px;
+  border: 0px;
+  border-radius: 24px;
+  padding-left: 40px;
+}
+
+.head-right > span > img {
+  z-index: 1;
+  position:absolute;
+  left: 38px;
+  top: 13px;
+}
+
+.main {
+  width: 100%;
+  position: relative;
+}
+
+.main-left {
+  display: inline-block;
+  background-image: 
+  url(./images/07f287dbd878ee5f7bbd68c5510ced12.png);
+  height: 448px;
+  width: 908px;
+  margin-left: 24px;
+}
+
+.main-left > h2 { 
+  font-size: 26px;
+  font-weight: 800px;
+  line-height: 33.23px;
+  padding-left: 28px;
+}
+
+.main-left > div { 
+  padding-left: 28px;
+  margin-top: 200px;
+}
+
+.main-left > button {
+  background-color: #0061FD;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 600px;
+  padding: 20px 52px 20px 18px;
+  border-radius: 14px;
+  border: 0px;
+  margin-left: 28px;
+}
+
+.main-left > button:hover {
+  background-color: #0061FD;
+  border-radius: 14px;
+}
+
+.main-left > button > p {
+  display: inline;
+  
+}
+
+.main-left > button > img{
+  display: inline;
+  position: relative;
+  top: 1px;
+  left: 25px;
+}
+
+.main-right {
+  width: 204px;
+  height: 448px;
+  display: inline-block;
+  background-color: #2F2F2F;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.main-right > ul {
+  list-style-type: none;
+}
+
+.main-right > ul > li {
+  
+  
+  
+}
+
+
